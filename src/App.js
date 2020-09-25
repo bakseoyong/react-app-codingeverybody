@@ -6,7 +6,7 @@ import UpdateContent from './components/UpdateContent';
 import Subject from './components/Subject';
 import Control from './components/Control'
 import './App.css';
-
+//1
 class App extends Component {
   constructor(props){
     super(props);
